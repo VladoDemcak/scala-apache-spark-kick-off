@@ -10,4 +10,4 @@ It is **apache spark maven project** with few dependencies and scala plugin to b
 
 2. and use `jar` from `\target` folder to submit job in spark
 
-  `spark-submit --class company.SparkJobKickoff my-app-0.0.1-SNAPSHOT.jar`
+  `spark-submit --class company.SparkJobKickoff my-spark-job-0.0.1-SNAPSHOT.jar`
