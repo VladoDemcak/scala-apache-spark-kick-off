@@ -1,0 +1,6 @@
+{
+  "name": "Scala-apache-spark-kick-off",
+  "tagline": "Apache spark kick-off for setup apache-spark application in scala very simply using maven",
+  "body": "This project servers as **apache spark kick-off** for setup **apache-spark** application in scala very simply.\r\n\r\nIt is **apache spark maven project** with few dependencies and scala plugin to build apache spark into jar archive.\r\n\r\n\r\n# Steps:\r\n1. run\r\n\r\n `mvn clean package`\r\n\r\n2. and use `jar` from `\\target` folder to submit job in spark\r\n\r\n  `spark-submit --class company.SparkJobKickoff my-spark-job-0.0.1-SNAPSHOT.jar`",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
