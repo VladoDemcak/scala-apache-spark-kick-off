@@ -1,4 +1,4 @@
-This project servers as **apache spark quick start project** for setup **apache-spark** application in scala very simply.
+This project servers as a **apache spark quick start project** for setup **apache-spark** application in scala very simply.
 
 It is apache spark **maven project** with few dependencies and **scala** plugin to build apache spark into jar archive.
 
